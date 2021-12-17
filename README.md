@@ -4,14 +4,6 @@
 
 ## I'm a Developer, Content Creator.
 
-# 📝 Table of Contents
-
-- [Connect With Me](#connect_with_me)
-- [Languages and Tools](#languages_and_tools)
-
-<br />
-<br />
-
 ### ➕ Connect with me <a name = "connect_with_me"></a>
 
 [<img align="left" alt="oO-Almax-Oo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
