@@ -1,5 +1,6 @@
 ### Hi there, I'm oOAlmaxOo 👋 
 
+[![Discord](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg)](https://dsc.gg/leaguebuild)
 [![Discord](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dsc.gg/leaguebuild)
 
 ## I'm a Developer, Content Creator.
