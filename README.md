@@ -1,17 +1,24 @@
 ### Hi there, I'm oOAlmaxOo 👋 
 
 [![Discord](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg)](https://dsc.gg/leaguebuild)
-[![Discord](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dsc.gg/leaguebuild)
 
 ## I'm a Developer, Content Creator.
 
-### Connect with me:
+# 📝 Table of Contents
+
+- [Connect With Me](#connect_with_me)
+- [Languages and Tools](#languages_and_tools)
+
+<br />
+<br />
+
+### ➕ Connect with me <a name = "connect_with_me"></a>
 
 [<img align="left" alt="oO-Almax-Oo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
-### Languages and Tools:
+### 🛠️ Languages and Tools <a name = "languages_and_tools"></a>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
