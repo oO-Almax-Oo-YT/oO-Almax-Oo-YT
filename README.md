@@ -32,4 +32,4 @@
 
 [twitter]: https://soon.soon/
 [youtube]: https://www.youtube.com/channel/UCM6JwZxdcUuHJpDZ_CzaTtw
-[github]: https://github.com/oO-Almax-Oo-YT?tab=repositories
+[github]: https://github.com/oO-Almax-Oo-YT#repositories
