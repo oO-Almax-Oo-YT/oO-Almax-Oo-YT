@@ -8,7 +8,6 @@
 ### Connect with me:
 
 [<img align="left" alt="oO-Almax-Oo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="oO-Almax-Oo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -32,6 +31,6 @@
 
 ---
 
-[twitter]: https://twitter.com/oooalmaxooo
+[twitter]: https://soon[<img align="left" alt="??? | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [youtube]: https://www.youtube.com/channel/UCM6JwZxdcUuHJpDZ_CzaTtw
 [github]: https://github.com/oO-Almax-Oo-YT?tab=repositories
